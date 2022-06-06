@@ -1,0 +1,14 @@
+Pedro Maia - 11805996	
+Tiago Cavalcanti - 11804891
+
+Linguagem: Python 3 64 bits
+Versão interpretador: 3.10.4
+Bibliotecas: Numpy ver. 1.18.1 ; Math ver 3.2
+
+O código está disponível no arquivo Ep1PedroeTiago.py.
+O código está divido em seções, como diz o relatório em pdf entregue.
+A solução de cada exemplo é feita por funções denominadas "ExemploN()", sendo N o número do exemplo de 1 a 4 que consta no enunciado do exercício
+Logo após a declaração de cada uma destas funções há uma linha de código comentada chamando essa função e, consequentemente, resolvendo tal exemplo
+e dando as respostas.
+Portanto, para rodar cada exemplo basta "descomentar" a linha de código que chama a função com o número do exemplo que se deseja rodar.
+Isso foi feito de modo a facilitar a integração do código futuramente e ao mesmo tempo possuir uma clara separação entre os exemplos rodados. 

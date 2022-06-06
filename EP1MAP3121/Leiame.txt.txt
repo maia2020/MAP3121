@@ -1,0 +1,19 @@
+Pedro Maia - 11805996	
+Tiago Cavalcanti - 11804891
+
+Linguagem: Python 3
+Versão interpretador: 3.10.4
+Bibliotecas: Numpy ver. 1.18.1 ; Math ver 3.2
+
+O código está disponível no arquivo Ep1PedroeTiago.py.
+O código está divido em seções, como diz o relatório em pdf entregue.
+Ao executar, o usário será questionado sobre que parte do programa deseja executar:
+Primeiro, é perguntado se o usuário deseja tratar de um sistema tridiagonal comum ou um sistema tridiagonal cíclico
+"1: Sistema Tridiagonal , 2:Sistema Tridiagonal Cíclico"
+Então, é perguntado se o usuário deseja utilizar a matriz definida no enunciado do exercício ou se deseja inserir os valores dos vetores
+que definem a diagonal inferior, principal e superior da matriz desejada
+"1: Matriz Gerada , 2: Inserir os Dados"
+Caso o usuário deseje inserior os dados, será necessário definir o tamanho da matriz, assim como o vetor "d", que seria o lado direito
+da igualdade do sistema a ser resolvido.
+Assim, o programa irá ser executado e retornára, para todos os casos, a decomposição LU da matriz utilizada
+e o vetor "x" resultado do sistema linear escolhido.
